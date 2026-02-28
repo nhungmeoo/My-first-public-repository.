@@ -7,3 +7,4 @@ Studying Web3 ecosystem
 Improving documentation skills
 Exploring blockchain basics
 Tracking daily progress
+Practicing small updates
