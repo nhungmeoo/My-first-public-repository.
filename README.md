@@ -17,3 +17,4 @@ Studying EVM basics
 Researching scaling
 Exploring APIs
 Learning about nodes
+Tracking roadmap
