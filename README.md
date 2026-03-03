@@ -14,3 +14,4 @@ Expanding knowledge
 Writing study log
 Exploring dev tools
 Studying EVM basics
+Researching scaling
