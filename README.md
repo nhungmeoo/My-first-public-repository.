@@ -12,3 +12,4 @@ Learning version control
 Improving clarity
 Expanding knowledge
 Writing study log
+Exploring dev tools
