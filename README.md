@@ -9,3 +9,4 @@ Exploring blockchain basics
 Tracking daily progress
 Practicing small updates
 Learning version control
+Improving clarity
