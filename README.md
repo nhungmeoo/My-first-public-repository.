@@ -11,3 +11,4 @@ Practicing small updates
 Learning version control
 Improving clarity
 Expanding knowledge
+Writing study log
