@@ -23,3 +23,4 @@ Exploring governance
 Studying validators
 Learning smart contract flow
 Reviewing CI/CD
+Studying signatures
