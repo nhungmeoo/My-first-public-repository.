@@ -21,3 +21,4 @@ Tracking roadmap
 Reviewing security
 Exploring governance
 Studying validators
+Learning smart contract flow
