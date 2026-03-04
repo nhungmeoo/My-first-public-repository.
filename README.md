@@ -20,3 +20,4 @@ Learning about nodes
 Tracking roadmap
 Reviewing security
 Exploring governance
+Studying validators
