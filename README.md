@@ -18,3 +18,4 @@ Researching scaling
 Exploring APIs
 Learning about nodes
 Tracking roadmap
+Reviewing security
