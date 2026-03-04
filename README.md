@@ -25,3 +25,4 @@ Learning smart contract flow
 Reviewing CI/CD
 Studying signatures
 Learning cryptography
+Exploring wallet flow
