@@ -27,3 +27,4 @@ Studying signatures
 Learning cryptography
 Exploring wallet flow
 Reviewing governance flow
+Learning liquidity basics
