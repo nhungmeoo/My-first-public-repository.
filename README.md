@@ -45,3 +45,4 @@ Studying smart contract risks
 Exploring automation
 Learning about snapshots
 Studying liquidity models
+Exploring cross chain tools
