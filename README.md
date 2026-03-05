@@ -29,4 +29,4 @@ Exploring wallet flow
 Reviewing governance flow
 Learning liquidity basics
 Studying smart contract logic
-
+Learning oracle basics
