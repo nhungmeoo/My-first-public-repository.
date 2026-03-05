@@ -48,3 +48,4 @@ Studying liquidity models
 Exploring cross chain tools
 Learning audit basics
 Studying EVM internals
+Exploring blockchain analytics
