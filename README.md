@@ -35,3 +35,4 @@ Tracking blockchain research
 Studying decentralized storage
 Exploring Layer1 vs Layer2
 Learning about testing
+Studying transaction lifecycle
