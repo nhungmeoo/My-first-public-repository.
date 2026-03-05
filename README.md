@@ -40,3 +40,4 @@ Exploring RPC providers
 Learning about APIs
 Studying staking pools
 Exploring DeFi protocols
+Learning about nodes
