@@ -32,3 +32,4 @@ Studying smart contract logic
 Learning oracle basics
 Exploring full stack Web3
 Tracking blockchain research
+Studying decentralized storage
