@@ -44,3 +44,4 @@ Learning about nodes
 Studying smart contract risks
 Exploring automation
 Learning about snapshots
+Studying liquidity models
