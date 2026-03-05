@@ -43,3 +43,4 @@ Exploring DeFi protocols
 Learning about nodes
 Studying smart contract risks
 Exploring automation
+Learning about snapshots
