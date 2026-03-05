@@ -37,3 +37,4 @@ Exploring Layer1 vs Layer2
 Learning about testing
 Studying transaction lifecycle
 Exploring RPC providers
+Learning about APIs
