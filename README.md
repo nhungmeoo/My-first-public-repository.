@@ -46,3 +46,4 @@ Exploring automation
 Learning about snapshots
 Studying liquidity models
 Exploring cross chain tools
+Learning audit basics
