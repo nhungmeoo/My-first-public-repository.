@@ -49,3 +49,4 @@ Exploring cross chain tools
 Learning audit basics
 Studying EVM internals
 Exploring blockchain analytics
+Adding clearer documentation sections.
