@@ -50,3 +50,4 @@ Learning audit basics
 Studying EVM internals
 Exploring blockchain analytics
 Adding clearer documentation sections.
+Reviewing transaction lifecycle.
