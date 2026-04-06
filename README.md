@@ -53,3 +53,4 @@ Adding clearer documentation sections.
 Reviewing transaction lifecycle.
 Studying open source contribution models.
 Understanding common smart contract risks.
+Studying liquidity mechanisms.
