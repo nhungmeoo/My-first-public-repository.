@@ -56,3 +56,4 @@ Understanding common smart contract risks.
 Studying liquidity mechanisms.
 Exploring backend integration ideas.
 Exploring consensus validation process.
+Understanding digital signatures.
