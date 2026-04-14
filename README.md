@@ -59,3 +59,4 @@ Exploring consensus validation process.
 Understanding digital signatures.
 Improving consistency in updates.
 Adding final refinements to documentation.
+Improving understanding of decentralized storage.
