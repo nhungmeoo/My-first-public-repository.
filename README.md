@@ -63,3 +63,4 @@ Improving understanding of decentralized storage.
 Exploring staking reward mechanisms.
 Exploring interoperability concepts.
 Improving long term project planning.
+Reviewing optimistic rollups structure.
