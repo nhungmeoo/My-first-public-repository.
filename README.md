@@ -70,3 +70,4 @@ Improving clarity in DeFi notes.
 Reviewing blockchain scalability tradeoffs.
 Adding additional roadmap updates.
 Reviewing MIT vs GPL differences.
+Reviewing blockchain logging patterns.
