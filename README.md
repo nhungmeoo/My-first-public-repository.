@@ -72,3 +72,4 @@ Adding additional roadmap updates.
 Reviewing MIT vs GPL differences.
 Reviewing blockchain logging patterns.
 Improving structured development timeline.
+Exploring distributed consensus theory.
