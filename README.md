@@ -75,3 +75,4 @@ Improving structured development timeline.
 Exploring distributed consensus theory.
 Learning about lending protocols.
 Exploring full stack Web3 architecture.
+Exploring blockchain analytics tools.
