@@ -78,3 +78,4 @@ Exploring full stack Web3 architecture.
 Exploring blockchain analytics tools.
 Refining Web3 learning approach.
 Exploring DeFi concepts
+Studying consensus
